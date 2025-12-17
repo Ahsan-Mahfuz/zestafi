@@ -37,7 +37,7 @@ export default function DeFiBarrierSection() {
           {features.map((feature, index) => (
             <div key={index} className="  rounded-2xl shadow-xl bg-gray-50">
               <div className=" rounded-2xl sm:p-10  transition-all duration-300 hover:shadow-lg hover:shadow-lime-500/20">
-                <div className="!z-50 w-48 mx-auto -my-7">
+                <div className="!z-50 w-56 -my-12 -ml-10">
                   <img src="/defer.svg" alt="" />
                 </div>
 
