@@ -6,7 +6,9 @@ export default function ZestafiFooter() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
           {/* Left - Brand */}
           <div>
-            <h3 className=" text-xl font-bold mb-3">Zestafi™</h3>
+            <h3 className=" text-xl font-bold mb-3 -ml-2  w-28">
+              <img src="/logo.svg" alt="" className="w-full" />
+            </h3>
             <p className=" text-sm leading-relaxed">
               Zest Vault Technologies FZE
             </p>
@@ -17,7 +19,7 @@ export default function ZestafiFooter() {
 
           {/* Center - Contact */}
           <div className="flex items-start md:justify-center">
-          info@zestafi.com
+            info@zestafi.com
           </div>
 
           {/* Right - Social Links */}
