@@ -1,0 +1,38 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_ii_83_1160)">
+<rect width="48" height="48" rx="8" fill="#E8EBEE"/>
+<rect x="0.5" y="0.5" width="47" height="47" rx="7.5" stroke="url(#paint0_linear_83_1160)"/>
+<path d="M31 15H17C15.8954 15 15 15.8954 15 17V31C15 32.1046 15.8954 33 17 33H31C32.1046 33 33 32.1046 33 31V17C33 15.8954 32.1046 15 31 15Z" stroke="black" stroke-opacity="0.8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.5 20C19.7761 20 20 19.7761 20 19.5C20 19.2239 19.7761 19 19.5 19C19.2239 19 19 19.2239 19 19.5C19 19.7761 19.2239 20 19.5 20Z" fill="black" stroke="black" stroke-opacity="0.8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.8999 19.8999L22.5999 22.5999" stroke="black" stroke-opacity="0.8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28.5 20C28.7761 20 29 19.7761 29 19.5C29 19.2239 28.7761 19 28.5 19C28.2239 19 28 19.2239 28 19.5C28 19.7761 28.2239 20 28.5 20Z" fill="black" stroke="black" stroke-opacity="0.8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.3999 22.5999L28.0999 19.8999" stroke="black" stroke-opacity="0.8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.5 29C19.7761 29 20 28.7761 20 28.5C20 28.2239 19.7761 28 19.5 28C19.2239 28 19 28.2239 19 28.5C19 28.7761 19.2239 29 19.5 29Z" fill="black" stroke="black" stroke-opacity="0.8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.8999 28.0999L22.5999 25.3999" stroke="black" stroke-opacity="0.8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28.5 29C28.7761 29 29 28.7761 29 28.5C29 28.2239 28.7761 28 28.5 28C28.2239 28 28 28.2239 28 28.5C28 28.7761 28.2239 29 28.5 29Z" fill="black" stroke="black" stroke-opacity="0.8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.3999 25.3999L28.0999 28.0999" stroke="black" stroke-opacity="0.8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 26C25.1046 26 26 25.1046 26 24C26 22.8954 25.1046 22 24 22C22.8954 22 22 22.8954 22 24C22 25.1046 22.8954 26 24 26Z" stroke="black" stroke-opacity="0.8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<filter id="filter0_ii_83_1160" x="-3" y="-3" width="54" height="54" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-3" dy="-3"/>
+<feGaussianBlur stdDeviation="3.5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_83_1160"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="3" dy="3"/>
+<feGaussianBlur stdDeviation="3.5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.533333 0 0 0 0 0.588235 0 0 0 0 0.639216 0 0 0 0.58 0"/>
+<feBlend mode="normal" in2="effect1_innerShadow_83_1160" result="effect2_innerShadow_83_1160"/>
+</filter>
+<linearGradient id="paint0_linear_83_1160" x1="24" y1="0" x2="24" y2="48" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#E8E8E8"/>
+</linearGradient>
+</defs>
+</svg>
